@@ -1,0 +1,181 @@
+Process: 0 registered... (1035 100 0 0)
+Process: 0 I/O blocked... (1035 100 100 100)
+Previous process used to be 0 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 0 0)
+Process: 2 I/O blocked... (1035 30 30 30)
+Previous process used to be 0 and is now 2
+the current process is being set to 1
+Process: 1 registered... (1035 500 0 0)
+Process: 1 I/O blocked... (1035 500 500 500)
+Previous process used to be 2 and is now 1
+the current process is being set to 2
+Process: 2 registered... (1035 30 30 30)
+Process: 2 I/O blocked... (1035 30 58 58)
+Previous process used to be 1 and is now 2
+the current process is being set to 1
+Process: 1 registered... (1035 500 500 500)
+Process: 1 I/O blocked... (1035 500 998 998)
+Previous process used to be 2 and is now 1
+the current process is being set to 2
+Process: 2 registered... (1035 30 58 58)
+Process: 2 I/O blocked... (1035 30 86 86)
+Previous process used to be 1 and is now 2
+the current process is being set to 1
+Process: 1 registered... (1035 500 998 998)
+Process: 1 completed... (1035 500 1035 1035)
+Process 1 has finished successfully
+For process 2 cpudone is 86 And cputime is 1035
+Since .cpudone < .cputime in the completion block, setting currentProcess to 2
+Process: 2 registered... (1035 30 86 86)
+Process: 2 I/O blocked... (1035 30 114 114)
+Previous process used to be 2 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 100 100)
+Process: 0 I/O blocked... (1035 100 198 198)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 114 114)
+Process: 2 I/O blocked... (1035 30 142 142)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 198 198)
+Process: 0 I/O blocked... (1035 100 296 296)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 142 142)
+Process: 2 I/O blocked... (1035 30 170 170)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 296 296)
+Process: 0 I/O blocked... (1035 100 394 394)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 170 170)
+Process: 2 I/O blocked... (1035 30 198 198)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 394 394)
+Process: 0 I/O blocked... (1035 100 492 492)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 198 198)
+Process: 2 I/O blocked... (1035 30 226 226)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 492 492)
+Process: 0 I/O blocked... (1035 100 590 590)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 226 226)
+Process: 2 I/O blocked... (1035 30 254 254)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 590 590)
+Process: 0 I/O blocked... (1035 100 688 688)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 254 254)
+Process: 2 I/O blocked... (1035 30 282 282)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 688 688)
+Process: 0 I/O blocked... (1035 100 786 786)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 282 282)
+Process: 2 I/O blocked... (1035 30 310 310)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 786 786)
+Process: 0 I/O blocked... (1035 100 884 884)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 310 310)
+Process: 2 I/O blocked... (1035 30 338 338)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 884 884)
+Process: 0 I/O blocked... (1035 100 982 982)
+Previous process used to be 2 and is now 0
+the current process is being set to 2
+Process: 2 registered... (1035 30 338 338)
+Process: 2 I/O blocked... (1035 30 366 366)
+Previous process used to be 0 and is now 2
+the current process is being set to 0
+Process: 0 registered... (1035 100 982 982)
+Process: 0 completed... (1035 100 1035 1035)
+Process 0 has finished successfully
+For process 2 cpudone is 366 And cputime is 1035
+Since .cpudone < .cputime in the completion block, setting currentProcess to 2
+Process: 2 registered... (1035 30 366 366)
+Process: 2 I/O blocked... (1035 30 394 394)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 394 394)
+Process: 2 I/O blocked... (1035 30 422 422)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 422 422)
+Process: 2 I/O blocked... (1035 30 450 450)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 450 450)
+Process: 2 I/O blocked... (1035 30 478 478)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 478 478)
+Process: 2 I/O blocked... (1035 30 506 506)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 506 506)
+Process: 2 I/O blocked... (1035 30 534 534)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 534 534)
+Process: 2 I/O blocked... (1035 30 562 562)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 562 562)
+Process: 2 I/O blocked... (1035 30 590 590)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 590 590)
+Process: 2 I/O blocked... (1035 30 618 618)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 618 618)
+Process: 2 I/O blocked... (1035 30 646 646)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 646 646)
+Process: 2 I/O blocked... (1035 30 674 674)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 674 674)
+Process: 2 I/O blocked... (1035 30 702 702)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 702 702)
+Process: 2 I/O blocked... (1035 30 730 730)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 730 730)
+Process: 2 I/O blocked... (1035 30 758 758)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 758 758)
+Process: 2 I/O blocked... (1035 30 786 786)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 786 786)
+Process: 2 I/O blocked... (1035 30 814 814)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 814 814)
+Process: 2 I/O blocked... (1035 30 842 842)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 842 842)
+Process: 2 I/O blocked... (1035 30 870 870)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 870 870)
+Process: 2 I/O blocked... (1035 30 898 898)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 898 898)
+Process: 2 I/O blocked... (1035 30 926 926)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 926 926)
+Process: 2 I/O blocked... (1035 30 954 954)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 954 954)
+Process: 2 I/O blocked... (1035 30 982 982)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 982 982)
+Process: 2 I/O blocked... (1035 30 1010 1010)
+Previous process used to be 2 and is now 2
+Process: 2 registered... (1035 30 1010 1010)
+Process: 2 completed... (1035 30 1035 1035)
